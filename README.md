@@ -2,7 +2,7 @@
 **kimconn/kimconn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h3>hi, i'm kimmy 👋</h3>
+<h2>hi, i'm kimmy 👋</h2>
 
 
   :mortar_board: senior year undergrad student studying computer science </br>
