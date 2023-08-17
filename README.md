@@ -5,8 +5,7 @@
 <h2>hi, i'm kimmy 👋</h2>
 
 
-  :mortar_board: senior year undergrad student studying computer science </br>
+  :mortar_board: CS graduate @ FIU </br>
   :statue_of_liberty: based in brooklyn, new york</br>
-  :seedling: learning more on: open source, react, typescript, solidity, CS algorithms</br>
   :purple_heart: interests: web3, foodie, 🐶 holly</br>
   :zap: currently seeking opportunities to learn and contribute in any and every possible way!</br>
